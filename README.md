@@ -1,2 +1,2 @@
-# resumeclass
-LaTeX based resume template class
+# resume Class
+A LaTeX based resume template class
